@@ -1,2 +1,2 @@
 # Blockchain_wallet
-Creating an pseudo-ether based(Ganache) blockchain wallet
+Creating an pseudo-ether(Ganache) based blockchain wallet
